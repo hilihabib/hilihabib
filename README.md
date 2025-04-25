@@ -25,5 +25,12 @@ SQL • Python (pandas, numpy, matplotlib, scikit-learn) • Power BI • Azure 
 ## 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/habib-hili) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hilihabib@gmail.com) 
 
+---
 
+## 🧪 Projects
+
+- [**Python_QR_Code_Generation**](https://www.kaggle.com/code/james79hh/mon-qr-code-perso-sous-python)  
+
+- [**SQL Thread**](https://github.com/hilihabib/)  
+  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
