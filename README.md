@@ -25,8 +25,7 @@ I’ve worked with major players in banking, technologies and defense, helping b
 
 ## 🧪 Projects
 
-- [**Python_QR_Code_Generation**](https://www.kaggle.com/code/james79hh/mon-qr-code-perso-sous-python)  
-
 - [**SQL_data_foundatations**](https://github.com/hilihabib/SQL_data_foundatations/blob/main/README.md)
+- [**Python_QR_Code_Generation**](https://www.kaggle.com/code/james79hh/mon-qr-code-perso-sous-python)  
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
